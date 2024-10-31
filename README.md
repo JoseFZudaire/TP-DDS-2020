@@ -6,4 +6,4 @@ Coen, Ezequiel
 Eiroa, Ailén Celeste
 Ibañez, Melanie 
 Martin, Matías 
-Zudaire, José Francisco
+Zudaire, José Francisco.
